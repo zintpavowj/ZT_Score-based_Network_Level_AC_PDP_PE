@@ -1,0 +1,6 @@
+# Ignore everything in this folder
+*
+
+# But not these files...
+!.gitignore
+!example-config.yml

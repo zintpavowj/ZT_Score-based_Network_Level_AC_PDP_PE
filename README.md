@@ -1,1 +1,5 @@
-# zintpavowj-Zero_Trust_Score-based_Network_Level_AC_PDP_PE
+# Zero Trust Score-based Network Level Access Control
+
+# Policy Decision Point
+
+# Policy Engine Implementation

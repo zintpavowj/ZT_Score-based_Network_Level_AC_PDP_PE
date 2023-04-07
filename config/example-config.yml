@@ -1,0 +1,17 @@
+system_logger:
+  level: debug
+  destination: stdout
+  formatter: text
+
+pe:
+  listen_addr: ":8883"
+  ssl_cert: cert.pem
+  ssl_cert_key: key.pem
+  ca_certs_to_verify_client_certs:
+    - ca.pem
+
+ta:
+  target_addr: "https://ta:8843"
+
+pap:
+  target_addr: "https://pap:8888"
